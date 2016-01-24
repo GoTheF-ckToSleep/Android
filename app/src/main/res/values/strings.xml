@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GoTheF-ckToSleep</string>
+    <string name="greeting">Set the time for your alarm!</string>
+    <string name="submit">Submit</string>
 </resources>
